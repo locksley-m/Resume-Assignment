@@ -1,0 +1,64 @@
+.header{
+	
+	
+}
+
+.lcontent-head{
+font-size: h3;
+font-weight: bold;
+	
+}
+
+.row{
+display: block;
+clear: both;	
+	
+}
+.label{
+display: inline;
+font-family: ;
+font-weight: bold;
+font-style: oblique;
+
+padding-top: 10px;	
+padding-right: 10px;
+padding-bottom: 10px;	
+padding-left: 20px;
+float: left;
+width: 15%;
+}
+
+.lcontent{
+ display: inline;
+ float: left;
+ padding-left: 20px;
+ width: 60%;
+ border-left: 2px solid black;
+	
+}
+a{	
+  text-decoration: none;
+}
+
+body{
+font-family: Sans-serif;	
+	
+}
+
+#info{
+	width: 75%;
+}
+
+img{
+	float: right;
+	position: relative;
+	top: 5px;
+	height: 250px;
+	width: 300px;
+	
+	-webkit-transform: rotate(355deg);
+	-moz-transform: rotate(355deg);
+	-ms-transform:rotate(355deg);
+	-o-transform: rotate(355deg);
+	transform: rotate(355deg);
+}
